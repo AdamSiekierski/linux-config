@@ -20,7 +20,7 @@ My Arch Linux Setup
 
 - Theme: `Adwaita Dark`
 - Icons: `Tela Black`
-- Background: https://unsplash.com/photos/VBNb52J8Trk
+- Background: https://unsplash.com/photos/pnPS3Ox_2vE
 - Font: `JetBrains Mono`
 - Extensions:
   - Dash to dock
