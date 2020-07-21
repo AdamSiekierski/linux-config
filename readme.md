@@ -13,7 +13,7 @@ My Arch Linux Setup
 ### Operating System
 
 - I have a basic install of Arch Linux 2020.07.01
-- The WM is GNOME on Wayland, most basic version from `gnome` package
+- The DE is GNOME on Wayland, most basic version from `gnome` package
 - The shell I'm using is ZSH, I will upload the config later (for now I'm just using [`slimzsh`](https://github.com/changs/slimzsh), but it is going to change)
 - My IDE is VSCode (you can find the setup on my [website](https://siekierski.ml/uses)), and the web browser is Firefox Developer Edition
 
