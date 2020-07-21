@@ -1,0 +1,29 @@
+[/]
+default='d17c0daf-35f0-42c9-8605-1083a4ff0cc3'
+list=['b1dcc9dd-5262-4d8d-a863-c897e6d979b9', 'd17c0daf-35f0-42c9-8605-1083a4ff0cc3']
+
+[:b1dcc9dd-5262-4d8d-a863-c897e6d979b9]
+audible-bell=true
+background-color='rgb(46,52,54)'
+cell-height-scale=1.0
+custom-command='/bin/zsh'
+font='JetBrains Mono 11'
+foreground-color='rgb(211,215,207)'
+login-shell=false
+palette=['rgb(46,52,54)', 'rgb(204,0,0)', 'rgb(78,154,6)', 'rgb(196,160,0)', 'rgb(52,101,164)', 'rgb(117,80,123)', 'rgb(6,152,154)', 'rgb(211,215,207)', 'rgb(85,87,83)', 'rgb(239,41,41)', 'rgb(138,226,52)', 'rgb(252,233,79)', 'rgb(114,159,207)', 'rgb(173,127,168)', 'rgb(52,226,226)', 'rgb(238,238,236)']
+use-custom-command=true
+use-system-font=false
+use-theme-colors=false
+
+[:d17c0daf-35f0-42c9-8605-1083a4ff0cc3]
+background-color='rgb(15,17,26)'
+background_color='#090B10'
+bold_color='#ECEFF1'
+custom-command='/bin/zsh'
+font='JetBrains Mono 11'
+foreground_color='#ECEFF1'
+palette=['#000000', '#E54B4B', '#9ECE58', '#FAED70', '#396FE2', '#BB80B3', '#2DDAFD', '#D0D0D0', '#555864', '#FF5370', '#C3E88D', '#FFCB6B', '#82AAFF', '#C792EA', '#89DDFF', '#FFFFFF']
+use-custom-command=true
+use-system-font=false
+use-theme-colors=false
+visible-name='Material Theme'
