@@ -1,0 +1,16 @@
+{
+  "name": "linux-config",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:AdamSiekierski/linux-config.git",
+  "author": "Adam Siekierski <a@siekierski.ml>",
+  "license": "MIT",
+  "devDependencies": {
+    "husky": "^4.2.5"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "./gnome-terminal/export.sh && ./zsh/export.sh && git add ."
+    }
+  }
+}

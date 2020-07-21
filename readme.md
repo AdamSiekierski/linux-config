@@ -8,6 +8,7 @@ My Arch Linux Setup
 ### Config files
 
 - `gnome-terminal` - Here you can find my Gnome terminal profile, with Material Theme Ocean, based off https://github.com/material-theme/vsc-material-theme
+- `zsh` - My `.zshrc` file with zsh configuration (going to improve it)
 
 ### Operating System
 
